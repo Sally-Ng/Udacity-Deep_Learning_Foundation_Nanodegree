@@ -1,4 +1,6 @@
 # Udacity- Deep Learning Foundation Nanodegree
+<p> <a href="https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101">
+The Nanodegree's website</a> </p>
 A 17 weeks course that covers convolutional neural networks, recurrent neural networks, reinforcement learning, and other applications of deep learning.
 
 ### Projects
@@ -27,5 +29,4 @@ Week 15: Generative Adversarial Networks (GAN) <br />
 Week 16: Image Generation <br />
 Week 17: One-shot Learning 
 
-<p> <a href="https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101">
-The Nanodegree's website</a> </p>
+
