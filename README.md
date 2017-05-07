@@ -55,7 +55,6 @@ Built and trained a Recurrent Neural Network to generate scripts for a TV show.
 <p align="left">
   <img src="scripts.JPG" width="600"/>
 </p>
-</br>
 
 [Project 4: Translate a Language](https://github.com/Sally-Ng/DAND-Translate_a_Language) <br />
 Language: Python (NumPy, TensorFlow) </br>
