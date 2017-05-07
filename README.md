@@ -28,6 +28,7 @@ Week 14: Autoencoders <br />
 Week 15: Generative Adversarial Networks (GAN) <br />
 Week 16: Image Generation <br />
 Week 17: One-shot Learning 
+<br />
 
 [Project 1: Predict Number of Bikeshare Users](https://github.com/Sally-Ng/DLND-Predict_Number_of_Bikeshare_Users)<br />
 Language: Python (pandas, NumPy, Matplotlib) <br /> 
