@@ -49,7 +49,7 @@ Built and trained a Convolutional Neural Network to classify images from the CIF
 </br>
 
 [Project 3: Generate TV scripts](https://github.com/Sally-Ng/DLND-Generate_TV_scripts) <br />
-Language: Python(NumPy, TensorFlow) </br>
+Language: Python (NumPy, TensorFlow) </br>
 Built and trained a Recurrent Neural Network to generate scripts for a TV show.
 </br>
 <p align="left">
