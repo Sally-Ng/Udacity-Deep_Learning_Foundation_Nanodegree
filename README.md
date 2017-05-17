@@ -8,7 +8,7 @@ A 17 weeks course that covers convolutional neural networks, recurrent neural ne
 - [x] [Project 2: Image Classification](https://github.com/Sally-Ng/DLND-Image_Classification)
 - [x] [Project 3: Generate TV scripts](https://github.com/Sally-Ng/DLND-Generate_TV_scripts)
 - [x] [Project 4: Translate a Language](https://github.com/Sally-Ng/DAND-Translate_a_Language)
-- [ ] Project 5: Generate Faces
+- [x] Project 5: Generate Faces
 
 ### Syllabus
 Week 1: Introduction to Deep Learning <br />
@@ -62,5 +62,10 @@ Built and trained a Recurrent Neural Network and a Sequence to Sequence model
 on a dataset of English and French sentences that can translate new sentences from English to French.
 </br>
 <p align="left">
-  <img src="translation.JPG" width="500"/>
+  <img src="translation.JPG" width="300"/>
+</p>
+
+</br>
+<p align="left">
+  <img src="certificate.JPG" width="500"/>
 </p>
