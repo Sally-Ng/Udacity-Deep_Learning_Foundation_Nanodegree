@@ -7,7 +7,7 @@ A 17 weeks course that covers convolutional neural networks, recurrent neural ne
 - [x] [Project 1: Predict Number of Bikeshare Users](https://github.com/Sally-Ng/DLND-Predict_Number_of_Bikeshare_Users)
 - [x] [Project 2: Image Classification](https://github.com/Sally-Ng/DLND-Image_Classification)
 - [x] [Project 3: Generate TV scripts](https://github.com/Sally-Ng/DLND-Generate_TV_scripts)
-- [x] [Project 4: Translate a Language](https://github.com/Sally-Ng/DAND-Translate_a_Language)
+- [x] [Project 4: Translate a Language](https://github.com/Sally-Ng/DLND-Translate_a_Language)
 - [x] Project 5: Generate Faces
 
 ### Syllabus
@@ -56,7 +56,7 @@ Built and trained a Recurrent Neural Network to generate scripts for a TV show.
   <img src="scripts.JPG" width="600"/>
 </p>
 
-[Project 4: Translate a Language](https://github.com/Sally-Ng/DAND-Translate_a_Language) <br />
+[Project 4: Translate a Language](https://github.com/Sally-Ng/DLND-Translate_a_Language) <br />
 Language: Python (NumPy, TensorFlow) </br>
 Built and trained a Recurrent Neural Network and a Sequence to Sequence model
 on a dataset of English and French sentences that can translate new sentences from English to French.
