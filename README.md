@@ -67,12 +67,12 @@ on a dataset of English and French sentences that can translate new sentences fr
 </p>
 </br>
 
-[Project 5: Faces and Digits Generation](https://github.com/Sally-Ng/DLND-Face_Generation)
+[Project 5: Faces and Digits Generation](https://github.com/Sally-Ng/DLND-Face_Generation) </br>
 Language: Python (NumPy, TensorFlow) </br>
 Built and trained Generative Adversarial Networks on the CelebA and MNIST dataset to generate new images of faces and digits.
 </br>
 <p align="left">
-  <img src="faces.JPG" width="150"/>
+  <img src="faces.JPG" width="200"/>
 </p>
 </br>
 
