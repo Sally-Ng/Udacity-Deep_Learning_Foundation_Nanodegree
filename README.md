@@ -8,7 +8,7 @@ A 17 weeks course that covers convolutional neural networks, recurrent neural ne
 - [x] [Project 2: Image Classification](https://github.com/Sally-Ng/DLND-Image_Classification)
 - [x] [Project 3: Generate TV scripts](https://github.com/Sally-Ng/DLND-Generate_TV_scripts)
 - [x] [Project 4: Translate a Language](https://github.com/Sally-Ng/DLND-Translate_a_Language)
-- [x] Project 5: Generate Faces
+- [x] [Project 5: Faces and Digits Generation](https://github.com/Sally-Ng/DLND-Face_Generation)
 
 ### Syllabus
 Week 1: Introduction to Deep Learning <br />
@@ -55,6 +55,7 @@ Built and trained a Recurrent Neural Network to generate scripts for a TV show.
 <p align="left">
   <img src="scripts.JPG" width="600"/>
 </p>
+</br>
 
 [Project 4: Translate a Language](https://github.com/Sally-Ng/DLND-Translate_a_Language) <br />
 Language: Python (NumPy, TensorFlow) </br>
@@ -64,8 +65,17 @@ on a dataset of English and French sentences that can translate new sentences fr
 <p align="left">
   <img src="translation.JPG" width="300"/>
 </p>
-
 </br>
+
+[Project 5: Faces and Digits Generation](https://github.com/Sally-Ng/DLND-Face_Generation)
+Language: Python (NumPy, TensorFlow) </br>
+Built and trained Generative Adversarial Networks on the CelebA and MNIST dataset to generate new images of faces and digits.
+</br>
+<p align="left">
+  <img src="faces.JPG" width="150"/>
+</p>
+</br>
+
 <p align="left">
   <img src="certificate.JPG" width="500"/>
 </p>
